@@ -1,7 +1,11 @@
 # CS 442 MP4: Battleships
 
 ## 1. Overview
+To run this mobile App in your PC clone this repository and install the required packages and run in terminal ```flutter run```
 
+This Mobile App is built according to the below requirements
+
+## Requirements
 For this machine problem, your task is to implement an application that interfaces with an existing RESTful service to allow users to register, log in, and play games of [Battleships](https://en.wikipedia.org/wiki/Battleship_(game)) against both human and computer opponents.
 
 The primary objective of this MP is to provide you with an opportunity to integrate a prototypical RESTful API into a Flutter application. To do this, you will need to study the provided REST API documentation and use asynchronous operations provided by the `http` package to communicate with the API.
